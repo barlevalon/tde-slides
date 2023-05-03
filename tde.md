@@ -17,9 +17,6 @@ This presentation is powered by ['slides'](https://github.com/maaslalani/slides)
 - What? (with demos)
 - Where to see more?
 
-
-#### This presentation is powered by ['slides']()
-
 ---
 
 # Why?
